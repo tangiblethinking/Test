@@ -8,8 +8,8 @@
   "redirects": [
     {
       "source": "/test2/:path*",
-      "destination": "https://example.com/target-url/:path*",
-      "permanent": false
+      "destination": "https://seekenreigh.figma.site/:path*",
+      "permanent": true
     }
   ]
 }
